@@ -7,7 +7,7 @@
 ### DB Setup and Start
 
 GET All
-
+https://github.com/JuiceTen/ecommerce-database/blob/main/Assets/GET%20all.gif?raw=true
 GET All by ID
 
 POST PUT DELETE Products and Tags
