@@ -7,12 +7,15 @@
 ### DB Setup and Start
 
 GET All
-https://github.com/JuiceTen/ecommerce-database/blob/main/Assets/GET%20all.gif?raw=true
+![image](https://user-images.githubusercontent.com/76706062/116801559-1d3b9000-aad9-11eb-87ee-69c59f758268.png)
 GET All by ID
+![image](https://user-images.githubusercontent.com/76706062/116801553-1745af00-aad9-11eb-9b94-da122ea2b9ce.png)
 
 POST PUT DELETE Products and Tags
+![image](https://user-images.githubusercontent.com/76706062/116801545-06953900-aad9-11eb-8046-b5d69c846347.png)
 
 POST PUT DELETE Categories
+![image](https://user-images.githubusercontent.com/76706062/116801548-0e54dd80-aad9-11eb-8ae7-e41485d471a9.png)
 
 The full movie file showing functionality of the application can be found in the animations directory
 
